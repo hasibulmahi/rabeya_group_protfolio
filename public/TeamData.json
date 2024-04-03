@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "role": "Software Developer",
+      "email": "alice.johnson@example.com",
+      "phone": "+1 (555) 123-4567",
+      "description": "Developing a new software application for internal use.",
+      "start_date": "2023-01-01",
+      "end_date": "2023-06-30",
+      "status": "In Progress",
+      "team": ["John Doe", "Jane Smith", "Bob Johnson"]
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "role": "UI/UX Designer",
+      "email": "bob.smith@example.com",
+      "phone": "+1 (555) 234-5678",
+      "description": "Launching a marketing campaign for a new product.",
+      "start_date": "2023-03-15",
+      "end_date": "2023-09-30",
+      "status": "Planning",
+      "team": ["Emily Wilson", "Daniel Brown", "Sophia Miller"]
+    },
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "role": "Project Manager",
+      "email": "charlie.brown@example.com",
+      "phone": "+1 (555) 345-6789",
+      "description": "Research and development of cutting-edge technologies.",
+      "start_date": "2023-02-01",
+      "end_date": "2023-12-31",
+      "status": "Active",
+      "team": ["Matthew Taylor", "Olivia Martinez", "William Anderson"]
+    },
+    {
+      "id": 4,
+      "name": "David White",
+      "role": "Web Developer",
+      "email": "david.white@example.com",
+      "phone": "+1 (555) 456-7890",
+      "description": "Legal analysis and compliance review for a new initiative.",
+      "start_date": "2023-04-10",
+      "end_date": "2023-11-30",
+      "status": "On Hold",
+      "team": ["Ava Garcia", "James Wilson", "Emma Harris"]
+    },
+    {
+      "id": 5,
+      "name": "Eva Davis",
+      "role": "Graphic Designer",
+      "email": "eva.davis@example.com",
+      "phone": "+1 (555) 567-8901",
+      "description": "Quality assurance testing for a software release.",
+      "start_date": "2023-06-01",
+      "end_date": "2023-08-31",
+      "status": "Completed",
+      "team": ["Liam Jackson", "Grace Robinson", "Michael Davis"]
+    },
+    {
+      "id": 6,
+      "name": "Frank Robinson",
+      "role": "Data Scientist",
+      "email": "frank.robinson@example.com",
+      "phone": "+1 (555) 678-9012",
+      "description": "Engineering and design of a new product prototype.",
+      "start_date": "2023-05-01",
+      "end_date": "2023-10-31",
+      "status": "In Progress",
+      "team": ["Alice Williams", "William Anderson", "Sophia Miller"]
+    },
+    {
+      "id": 7,
+      "name": "Grace Miller",
+      "role": "Machine Learning Engineer",
+      "email": "grace.miller@example.com",
+      "phone": "+1 (555) 789-0123",
+      "description": "Public relations campaign for a corporate event.",
+      "start_date": "2023-07-15",
+      "end_date": "2023-12-15",
+      "status": "Active",
+      "team": ["Daniel Brown", "Ava Garcia", "John Doe"]
+    },
+    {
+      "id": 8,
+      "name": "Hank Turner",
+      "role": "Data Analyst",
+      "email": "hank.turner@example.com",
+      "phone": "+1 (555) 890-1234",
+      "description": "Operations optimization for efficiency improvement.",
+      "start_date": "2023-08-01",
+      "end_date": "2023-11-15",
+      "status": "Planning",
+      "team": ["Emma Harris", "Liam Jackson", "Matthew Taylor"]
+    }
+]
