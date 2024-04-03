@@ -12,7 +12,7 @@ import OurProjectPage from "../Pages/OurProjectPage/OurProjectPage.jsx";
 import OurTeamPage from "../Pages/OurTeamPage/OurTeamPage.jsx";
 import ContactUsPage from "../Pages/ContactUsPage/ContactUsPage.jsx";
 
-const routes = createBrowserRouter([
+const Routes = createBrowserRouter([
     {
         path: "/",
         element: <LayoutMain></LayoutMain> ,
