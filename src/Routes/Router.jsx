@@ -2,12 +2,12 @@ import {
     createBrowserRouter
 } from "react-router-dom";
 
-import LayoutMain from "../Layouts/MainLayOut/LayoutMain";
-import Services from "../Pages/Services/Services";
-import Projects from "../Pages/Projects/Projects";
-import Teams from "../Pages/Teams/Teams";
-import Home from "../Pages/Home/Home/home";
-import ServicesPage from "../Pages/ServicesPage/servicesPage";
+import LayoutMain from "../Layouts/MainLayOut/LayoutMain.jsx";
+import Services from "../Pages/Services/Services.jsx";
+import Projects from "../Pages/Projects/Projects.jsx";
+import Teams from "../Pages/Teams/Teams.jsx";
+import Home from "../Pages/Home/Home/home.jsx";
+import ServicesPage from "../Pages/ServicesPage/servicesPage.jsx";
 import OurProjectPage from "../Pages/OurProjectPage/OurProjectPage.jsx";
 import OurTeamPage from "../Pages/OurTeamPage/OurTeamPage.jsx";
 import ContactUsPage from "../Pages/ContactUsPage/ContactUsPage.jsx";
