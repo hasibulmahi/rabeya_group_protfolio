@@ -5,7 +5,7 @@ import Services from "../Pages/Services/Services.jsx";
 import Projects from "../Pages/Projects/Projects.jsx";
 import Teams from "../Pages/Teams/Teams.jsx";
 import Home from "../Pages/Home/Home/Home.jsx";
-import ServicesPage from "../Pages/ServicesPage/servicesPage.jsx";
+import ServicesPage from "../Pages/ServicesPage/ServicesPage.jsx";
 import OurProjectPage from "../Pages/OurProjectPage/OurProjectPage.jsx";
 import OurTeamPage from "../Pages/OurTeamPage/OurTeamPage.jsx";
 import ContactUsPage from "../Pages/ContactUsPage/ContactUsPage.jsx";
