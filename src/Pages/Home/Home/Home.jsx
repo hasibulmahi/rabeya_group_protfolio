@@ -9,8 +9,8 @@ import Testamonial from "../Testamonial/Testamonial";
 const Home = () => {
   return (
     <div>
-        {/* changes from mahi
-        changes from mahi */}
+        changes from mahi
+        changes from mahi
       <Banner></Banner>
       <SisterConcern></SisterConcern>
       <About></About>
